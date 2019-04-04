@@ -2,154 +2,44 @@
 title: Test
 ---
 
-! Details on the full capabilities of Spectre.css can be found in the [Official Spectre Documentation](https://picturepan2.github.io/spectre/elements.html)
 
-The [Quark theme](https://github.com/getgrav/grav-theme-quark) is the new default theme for Grav built with [Spectre.css](https://picturepan2.github.io/spectre/) the lightweight, responsive and modern CSS framework. Spectre provides  basic styles for typography, elements, and a responsive layout system that utilizes best practices and consistent language design.
 
-### Headings
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at nulla in elit convallis aliquet. In eget dolor eu quam mattis dictum. Proin odio nunc, finibus at vestibulum sed, consequat id elit. Curabitur id tempus erat. Aenean vulputate vehicula eros. Nullam sed egestas risus. Maecenas mollis diam nec finibus pellentesque. Donec id mollis dolor. Donec pretium libero at nisi scelerisque, eu tincidunt arcu condimentum. Duis dignissim interdum sollicitudin.
 
-# H1 Heading `40px`
+Sed vitae volutpat nisi, et semper mauris. Etiam vel sagittis felis. Quisque sed egestas nisi. Cras porttitor arcu et suscipit fringilla. Aenean elit odio, feugiat non iaculis sodales, ultricies ac erat. Curabitur aliquet venenatis facilisis. Praesent dignissim urna dignissim magna maximus, congue vehicula odio ullamcorper. Nulla sem eros, pulvinar sit amet lacus sodales, consectetur aliquet leo. Nunc eu viverra libero. Sed et nulla laoreet, ullamcorper arcu nec, lacinia sem. Suspendisse pretium at orci non ultricies.
 
-## H2 Heading `32px`
+Aenean interdum porta ante at feugiat. Vestibulum dui mi, consequat in pharetra id, congue ut nibh. Donec vulputate rutrum metus, vel facilisis urna imperdiet porta. Vestibulum ac egestas orci. Fusce sit amet vulputate lectus. Sed pulvinar molestie condimentum. Morbi blandit id justo nec condimentum. Ut felis metus, dictum et urna egestas, porta scelerisque diam. Nullam nec rutrum neque, posuere dignissim felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse potenti. Curabitur lacus orci, imperdiet ut imperdiet sed, malesuada at elit. Pellentesque ac nulla augue. Suspendisse molestie id enim nec gravida.
 
-### H3 Heading `28px`
+Quisque id orci purus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur vel ornare diam, eget vulputate dolor. Curabitur quis enim tellus. Maecenas vel ex vitae elit mattis maximus. Nunc ante ex, pulvinar laoreet pellentesque ac, sagittis sit amet velit. Mauris vel sapien imperdiet, rutrum dolor ut, ullamcorper nibh. Curabitur a sem sapien. Vivamus nec gravida nibh, nec vulputate nisi. Nunc condimentum ut diam in hendrerit. Etiam euismod justo nunc, quis vulputate diam faucibus sit amet. Suspendisse vestibulum lacus tincidunt, posuere nisl quis, scelerisque leo. Maecenas a porttitor lacus. Etiam interdum vitae sapien sed bibendum. Quisque consequat aliquam viverra.
 
-#### H4 Heading `24px`
+Curabitur vestibulum euismod diam ac consectetur. Mauris ornare lacus bibendum luctus faucibus. Proin turpis ipsum, ultricies eget dui a, imperdiet aliquam tortor. Sed posuere justo at luctus pretium. Sed pulvinar, orci sit amet fringilla ultricies, lectus odio venenatis ligula, eu consequat quam sapien vel nunc. Quisque sodales mi et tincidunt accumsan. Nullam imperdiet ultricies laoreet. Cras ante sem, tempus nec fringilla sit amet, pellentesque id ligula. Vestibulum eget mi sit amet ipsum accumsan faucibus. Vestibulum id bibendum lorem. Suspendisse enim mauris, varius at lacinia nec, gravida ac quam. Fusce placerat erat ut libero blandit, at tincidunt est accumsan. Cras tristique egestas libero, eget laoreet mauris aliquam quis. Suspendisse enim erat, pharetra ut scelerisque eget, molestie non tellus. Phasellus vitae gravida elit.
 
-##### H5 Heading `20px`
+Curabitur viverra est magna. Duis imperdiet pellentesque eleifend. Nullam eu neque vel quam sodales tincidunt. Curabitur vitae ipsum commodo, tincidunt nisi quis, condimentum massa. Sed placerat, magna non tincidunt tempor, sem nisi tincidunt elit, a pretium lectus erat non neque. Duis venenatis erat eget metus ultrices blandit. Nullam ligula diam, accumsan eget egestas id, volutpat quis dolor. Cras sagittis non ligula sit amet iaculis. Nullam sodales scelerisque risus eu lacinia. Duis sed ultrices felis. Integer at suscipit eros, in interdum arcu. Proin quis ornare justo, mattis posuere sem.
 
-###### H6 Heading `16px`
+Sed consectetur fringilla metus, eget eleifend diam hendrerit non. Nunc commodo porta felis, ultrices dapibus turpis aliquam eget. Donec tempus eros at diam mattis, eu aliquet nulla imperdiet. Fusce sed commodo felis. Aliquam ullamcorper euismod ultricies. Suspendisse potenti. Sed vehicula sem est, nec gravida risus pretium et. Nam id rutrum tellus, id ultrices nibh. Vestibulum mollis ipsum et feugiat suscipit. Phasellus id lacus eget elit venenatis tempus. Praesent et fermentum orci. Sed id dui tellus. Vivamus commodo consequat urna, et rutrum massa dictum ut.
 
-```html
-# H1 Heading
-# H1 Heading `40px`</small>`
+Cras lacinia eu sapien vel vehicula. Mauris efficitur erat velit, vitae efficitur quam suscipit consectetur. Phasellus eget diam ac sem pulvinar venenatis. Vivamus eget vulputate ipsum. Sed tincidunt dolor in purus sodales, eu sagittis sem blandit. Aenean rhoncus risus non urna consectetur, in tristique ex maximus. Nullam faucibus eget leo sit amet congue. Cras tempor lectus eu ligula tempor, eu molestie enim efficitur. In hendrerit felis et ultrices gravida. Donec imperdiet, dolor a feugiat aliquam, mi lectus tristique felis, efficitur ultricies neque ex vel nisi.
 
-<span class="h1">H1 Heading</span>
-```
+Ut finibus risus et urna facilisis tempus. Integer congue, mauris ultricies dignissim commodo, tortor dui congue quam, et commodo ante nibh hendrerit mi. Praesent non commodo mauris. Vestibulum sed urna non justo elementum congue eu nec ligula. Curabitur lacinia molestie lectus, egestas pulvinar lectus ullamcorper vitae. Pellentesque laoreet libero ut nunc volutpat porta. Sed luctus nibh ante, quis posuere nisl sollicitudin et. Integer eleifend, dui non ornare placerat, sem dolor egestas purus, eu fringilla augue ex eget est. Aliquam dapibus sed tellus non placerat.
 
-### Paragraphs
+Vestibulum vestibulum lobortis lacus, et cursus nunc dictum in. Morbi semper vel dolor sit amet placerat. Integer faucibus eu erat quis luctus. Morbi ipsum sapien, facilisis sed purus ac, fringilla imperdiet risus. Maecenas molestie ligula id ligula luctus varius. Nulla ultricies erat id libero maximus, vel porttitor enim pellentesque. Nullam malesuada ornare ante eget vulputate. Etiam dictum vehicula vehicula. Vestibulum in lacus a odio pulvinar tempor. Pellentesque mauris nunc, euismod sit amet nulla quis, aliquet condimentum metus.
 
-Lorem ipsum dolor sit amet, consectetur [adipiscing elit. Praesent risus leo, dictum in vehicula sit amet](#), feugiat tempus tellus. Duis quis sodales risus. Etiam euismod ornare consequat.
+Aliquam sodales sagittis tristique. Fusce et ante sed mauris interdum vestibulum. Suspendisse sed dui vel ante rhoncus semper id vehicula neque. Morbi suscipit luctus leo, ac mattis nisi. Suspendisse urna nisi, consequat eget mauris at, mattis lobortis erat. Maecenas id tincidunt turpis. Integer vitae felis laoreet, consectetur dui eget, rutrum dolor. Nullam ut posuere nibh. Nulla facilisis, est et commodo vestibulum, ipsum leo congue eros, nec condimentum odio metus imperdiet leo. Donec imperdiet risus ut libero efficitur sollicitudin.
 
-Climb leg rub face on everything give attitude nap all day for under the bed. Chase mice attack feet but rub face on everything hopped up on goofballs.
+Ut blandit porttitor viverra. Aenean consequat pretium iaculis. Cras vitae commodo arcu. Sed convallis mollis velit. In ultricies, nisi sed rhoncus auctor, metus lectus aliquet nisi, vitae consequat velit lectus sit amet est. Nam in justo nibh. Phasellus et dui at ex dapibus elementum. Integer hendrerit convallis urna a ullamcorper. Suspendisse accumsan metus enim, quis ultrices ligula vulputate ac. Vestibulum et velit vulputate, sagittis orci sed, rhoncus sapien.
 
-### Markdown Semantic Text Elements
+Mauris semper est eu nisl luctus, eu blandit nisi sodales. Suspendisse imperdiet, enim in bibendum bibendum, ex eros tincidunt magna, id tristique augue libero quis magna. Fusce efficitur, erat ut imperdiet euismod, odio tellus vestibulum augue, varius rhoncus quam est sed ante. Vivamus ullamcorper at urna nec posuere. Etiam tristique libero tellus, id posuere elit tincidunt at. Nullam arcu tortor, bibendum sed nisl at, pulvinar consequat urna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse facilisis facilisis tellus non volutpat. Maecenas in consectetur tortor, ut vehicula libero. Aliquam auctor massa ut felis auctor, ac tincidunt turpis ullamcorper. Pellentesque venenatis maximus nibh vel porta. Fusce pellentesque felis in faucibus venenatis. Quisque rhoncus est eu enim condimentum malesuada.
 
-**Bold** `**Bold**`
+Morbi et rutrum mauris. Nam consectetur, purus ut sagittis vulputate, felis magna auctor ante, at sodales orci turpis vitae eros. Curabitur viverra lobortis dui a blandit. Etiam ut ipsum eu dolor sollicitudin maximus et id dolor. Etiam varius laoreet mi, ut feugiat dolor accumsan eu. Mauris leo neque, efficitur sed fermentum non, dignissim a lacus. Mauris porta erat et velit venenatis finibus sit amet ut enim. Suspendisse ut ornare mauris, eget mattis justo. Suspendisse iaculis eros tempor ante rhoncus convallis. Pellentesque tortor ipsum, viverra tempor semper quis, ultrices et odio. Pellentesque euismod luctus nisi, quis dignissim erat consequat vel. Quisque id massa ut neque ultrices mattis vitae ac diam. Sed ullamcorper, metus sit amet imperdiet placerat, odio nunc faucibus odio, nec facilisis felis augue et ipsum. Cras feugiat iaculis neque in auctor. Sed volutpat nibh at ante accumsan, et tempor eros vestibulum.
 
-_Italic_ `_Italic_`
+Quisque pretium fringilla ultricies. Curabitur pulvinar dolor nunc, eu dignissim tortor tempus at. Aliquam eleifend purus id sapien ullamcorper, id fermentum erat fringilla. Aliquam massa risus, pellentesque ut blandit eget, pellentesque nec nisl. Proin pharetra non lacus quis sodales. Pellentesque eu convallis dolor. Sed in porttitor lorem.
 
-~~Deleted~~ `~~Deleted~~`
+Donec eros velit, lobortis non pharetra ac, tincidunt viverra tortor. Morbi finibus vitae dui non sodales. Proin vitae mauris vitae odio facilisis viverra. Donec non dolor imperdiet, sodales odio ut, venenatis elit. Pellentesque non est diam. Mauris sit amet leo nec leo vehicula porta. Integer mattis faucibus justo euismod viverra. Nunc varius elit quis semper bibendum. Integer a scelerisque lorem. Nunc nec laoreet massa. Nunc varius accumsan mauris non rutrum. In hac habitasse platea dictumst. Vestibulum ac felis in tellus aliquam accumsan suscipit at risus.
 
-`Inline Code` `` `Inline Code` ``
+Donec viverra magna eu turpis pellentesque, ut scelerisque massa interdum. Vestibulum malesuada et quam a sodales. Vivamus felis tellus, commodo non vestibulum in, eleifend quis nulla. Cras iaculis purus et tellus porttitor aliquet. Ut quis mauris dignissim tortor rutrum molestie. Praesent rutrum augue metus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc dictum finibus ante vel accumsan. Suspendisse maximus risus vitae auctor pharetra. Fusce consectetur nibh congue, semper magna eu, luctus nibh.
 
-### HTML Semantic Text Elements
+Praesent eget lacinia nisl, at rhoncus dolor. Morbi hendrerit nulla nibh, vel ultricies nulla semper eu. Sed laoreet vestibulum iaculis. Suspendisse potenti. Donec ut ornare orci. Fusce euismod porta nibh vitae accumsan. Donec consequat nunc et volutpat ullamcorper. Suspendisse hendrerit gravida posuere. Donec sagittis commodo erat quis facilisis. Duis finibus, lorem et blandit luctus, neque lacus interdum augue, at consequat magna ligula id dolor. Duis ante massa, porttitor eget purus sed, lobortis malesuada tortor. Nam interdum tincidunt placerat.
 
-<abbr>I18N</abbr> `<abbr>`
+Vivamus cursus quam id risus accumsan mattis. Suspendisse id justo facilisis justo aliquet facilisis. Vestibulum in mi molestie metus efficitur ultricies. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla pharetra mauris ipsum, ac bibendum eros aliquam vitae. Suspendisse justo libero, dapibus in euismod egestas, interdum quis ex. Morbi aliquam cursus suscipit.
 
-<cite>Citation</cite> `<cite>`
-
-<kbd>Ctrl + S</kbd> `<kbd>`
-
-Text<sup>Superscripted</sup> `<sup>`
-
-Text<sub>Subscripted</sub> `<sub>`
-
-<u>Underlined</u> `<u>`
-
-<mark>Highlighted</mark> `<mark>`
-
-<time>20:14</time> `<time>`
-
-<var>x = y + 2</var> `<var>`
-
-### Blockquote
-
-> The advance of technology is based on making it fit in so that you don't really even notice it,
-> so it's part of everyday life.
->
-> <cite>- Bill Gates</cite>
-
-```markdown
-> The advance of technology is based on making it fit in so that you don't really even notice it,
-> so it's part of everyday life.
->
-> <cite>- Bill Gates</cite>
-```
-
-### Unordered List
-
-* list item 1
-* list item 2
-    * list item 2.1
-    * list item 2.2
-    * list item 2.3
-* list item 3
-
-```markdown
-* list item 1
-* list item 2
-    * list item 2.1
-    * list item 2.2
-    * list item 2.3
-* list item 3
-```
-
-### Ordered List
-
-1. list item 1
-1. list item 2
-    1. list item 2.1
-    1. list item 2.2
-    1. list item 2.3
-1. list item 3
-
-```markdown
-1. list item 1
-1. list item 2
-    1. list item 2.1
-    1. list item 2.2
-    1. list item 2.3
-1. list item 3
-```
-
-### Table
-
-| Name                        | Genre                         | Release date         |
-| :-------------------------- | :---------------------------: | -------------------: |
-| The Shawshank Redemption    | Crime, Drama                  | 14 October 1994      |
-| The Godfather               | Crime, Drama                  | 24 March 1972        |
-| Schindler's List            | Biography, Drama, History     | 4 February 1994      |
-| Se7en                       | Crime, Drama, Mystery         | 22 September 1995    |
-
-```markdown
-| Name                        | Genre                         | Release date         |
-| :-------------------------- | :---------------------------: | -------------------: |
-| The Shawshank Redemption    | Crime, Drama                  | 14 October 1994      |
-| The Godfather               | Crime, Drama                  | 24 March 1972        |
-| Schindler's List            | Biography, Drama, History     | 4 February 1994      |
-| Se7en                       | Crime, Drama, Mystery         | 22 September 1995    |
-```
-
-### Notices
-
-The notices styles are actually provided by the `markdown-notices` plugin but are useful enough to include here:
-
-! This is a warning notification
-
-!! This is a error notification
-
-!!! This is a default notification
-
-!!!! This is a success notification
-
-```markdown
-! This is a warning notification
-
-!! This is a error notification
-
-!!! This is a default notification
-
-!!!! This is a success notification
-```
-
+Proin accumsan interdum lacinia. In quis erat egestas, viverra lacus et, consequat ipsum. Aliquam erat volutpat. Curabitur molestie lorem a ullamcorper suscipit. Nullam imperdiet tellus risus, non faucibus tortor bibendum et. Aliquam mollis elit et nunc cursus, et egestas eros malesuada. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam erat volutpat. Pellentesque posuere, nisl in semper mattis, diam sapien ultrices odio, ac semper lectus urna eu odio. Mauris ac porttitor felis.
